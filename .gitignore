@@ -1,0 +1,10 @@
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other common files to ignore
+*.log
+node_modules/
+.env
